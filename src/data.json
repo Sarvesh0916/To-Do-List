@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "task": "Iron clothes",
+        "complete": false
+    },
+    {
+        "id": 2,
+        "task": "Do laundry",
+        "complete": true
+    },
+    {
+        "id": 3,
+        "task": "Go for regular check-up",
+        "complete": false
+    },
+    {
+        "id": 4,
+        "task": "Clean room",
+        "complete": true
+    },
+    {
+        "id": 5,
+        "task": "Bike servicing",
+        "complete": false
+    }
+]
